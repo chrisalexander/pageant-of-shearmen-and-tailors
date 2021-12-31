@@ -1,0 +1,44 @@
+.pageant {
+    font-family: 'Italianno', cursive;
+}
+
+.cables {
+    font-family: 'Abel', sans-serif;
+}
+
+.wenni {
+    font-family: 'Puppies Play', cursive;
+}
+
+.card-img-top {
+    display: block;
+    width: 100%;
+    background-size: cover;
+}
+
+.pageant-header {
+    font-size: 50px;
+    line-height: 88px;
+}
+
+.pageant-subheader {
+    font-size: 28px;
+}
+
+.pageant-text {
+    color: #333;
+}
+
+@media(max-width: 768px) {
+    .pageant-header {
+        font-size: 44px;
+        line-height: 80px;
+    }
+}
+
+@media(max-width: 576px) {
+    .pageant-header {
+        font-size: 36px;
+        line-height: 70px;
+    }
+}
