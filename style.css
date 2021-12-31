@@ -29,6 +29,11 @@
     color: #333;
 }
 
+a, a:link, a:visited, a:focus, a:hover, a:active {
+    color: #333 !important;
+}
+
+
 @media(max-width: 768px) {
     .pageant-header {
         font-size: 44px;
